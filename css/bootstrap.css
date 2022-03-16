@@ -10857,3 +10857,29 @@ textarea.form-control-lg {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.mycontainer {
+  position: relative;
+}
+
+.mycontainer:hover {
+  background-image: url(../img/osu-logosm.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 95%;
+  opacity: 1;
+}
+
+.osu-header {
+  background-image: url(../img/osu-header.png);
+  background-size: 75%;
+}
+
+.osu-background {
+  background-image: url(../img/osu-background.png);
+  background-size: 75%;
+}
+
+.osu-card {
+  background-image: url(../img/osu-card.png);
+  background-size: 100%;
+}
